@@ -54,7 +54,7 @@ ROOT_URLCONF = 'projeto.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'C:\Users\User\Desktop\fabrica2\blog\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
